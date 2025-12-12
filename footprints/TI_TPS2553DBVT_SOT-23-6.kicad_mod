@@ -1,0 +1,330 @@
+(footprint "TI_TPS2553DBVT_SOT-23-6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "TPS2553DBVT")
+	(property "Reference" "REF**"
+		(at 0 -2.54 0)
+		(layer "F.SilkS")
+		(uuid "a2e14b80-193a-4459-9e48-a739d88f455e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TI_TPS2553DBVT_SOT-23-6"
+		(at 7.26 2.365 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4f34a5f-3283-4aec-ad74-3809f948e245")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f24b4f27-7093-4994-9a32-20097e70006e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fb211d6-0d3f-430d-8934-2d922b830e8b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.8 1.56)
+		(end 0.8 1.56)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f05b4bd9-3a0e-46a7-a6b9-e8d26181a453")
+	)
+	(fp_line
+		(start 0.8 -1.56)
+		(end -0.8 -1.56)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "067f8416-c0c9-4cae-abad-f44308498f26")
+	)
+	(fp_circle
+		(center -1.2192 -1.6764)
+		(end -1.1192 -1.6764)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "db3c9675-81c8-43b7-b320-4d0a3e2c7df3")
+	)
+	(fp_line
+		(start -2.11 -1.49)
+		(end -2.11 1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c3031015-7487-40d2-9a6b-2cbf2d473bb4")
+	)
+	(fp_line
+		(start -2.11 -1.49)
+		(end -1.05 -1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e011646a-1b2a-40cb-8388-df881544a4a6")
+	)
+	(fp_line
+		(start -2.11 1.49)
+		(end -1.05 1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e608f0c4-31dd-4d49-8894-524bb1f927b5")
+	)
+	(fp_line
+		(start -1.05 -1.49)
+		(end -1.05 -1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88bf36c5-3e10-4429-b6e6-5c56aa062b0a")
+	)
+	(fp_line
+		(start -1.05 1.49)
+		(end -1.05 1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "63d6ceb4-fb76-4956-b68e-bfa98a3f5eef")
+	)
+	(fp_line
+		(start -1.05 1.7)
+		(end 1.05 1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f48543ac-1ce8-4b29-87ed-d675713b58ed")
+	)
+	(fp_line
+		(start 1.05 -1.7)
+		(end -1.05 -1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "71fd53b8-945f-4600-bdc5-ba014d28dd76")
+	)
+	(fp_line
+		(start 1.05 -1.49)
+		(end 1.05 -1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "568e109b-1940-41e9-8549-cfcb8ac11f2b")
+	)
+	(fp_line
+		(start 1.05 1.49)
+		(end 1.05 1.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a5cc74ba-e306-4a9d-92b3-b0a77e81343d")
+	)
+	(fp_line
+		(start 2.11 -1.49)
+		(end 1.05 -1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d9affeae-b69d-4fd4-bb04-99a4f53d5127")
+	)
+	(fp_line
+		(start 2.11 1.49)
+		(end 1.05 1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b720437a-a14a-4a39-b37b-0cc13726a43a")
+	)
+	(fp_line
+		(start 2.11 1.49)
+		(end 2.11 -1.49)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "17c04cc3-3eed-4c96-b18d-dae3ac6efe2b")
+	)
+	(fp_line
+		(start -0.8 -1.45)
+		(end -0.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ddbafe6-5a5b-4e63-bfaa-4150fc605660")
+	)
+	(fp_line
+		(start -0.8 1.45)
+		(end 0.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9881cff9-68f9-469d-bcb6-6df32a451b1b")
+	)
+	(fp_line
+		(start 0.8 -1.45)
+		(end -0.8 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61356c64-b636-4c2d-8b03-1c6d6e668c74")
+	)
+	(fp_line
+		(start 0.8 1.45)
+		(end 0.8 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d2e5286-f0b0-4e29-8e8d-151862384690")
+	)
+	(fp_circle
+		(center -1.2192 -1.6764)
+		(end -1.1192 -1.6764)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "e2c56ff2-753e-4cf4-85c5-4df15a02bf3b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b7688b84-5e5b-4ed2-a1d0-4cc068bd2f39")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.255 -0.95)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "828ea6c5-7546-4a48-905d-fa8086195359")
+	)
+	(pad "2" smd roundrect
+		(at -1.255 0)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "b498c556-d850-4fe9-95dd-5770cae95f9d")
+	)
+	(pad "3" smd roundrect
+		(at -1.255 0.95)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "d04efea5-e987-48d4-8a21-155c48d67847")
+	)
+	(pad "4" smd roundrect
+		(at 1.255 0.95)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "3f1208d2-f0b7-4121-8916-1937f44c5118")
+	)
+	(pad "5" smd roundrect
+		(at 1.255 0)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "9b059103-7efd-430f-bfcf-c2e2115f7f8a")
+	)
+	(pad "6" smd roundrect
+		(at 1.255 -0.95)
+		(size 1.21 0.58)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "0c8dc514-5efe-4d8e-bb3b-a94331da6404")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/dhyey/Desktop/PCB 3D Models/TI_TPS2553DBVT_SOT-23-6.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
