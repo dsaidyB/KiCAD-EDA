@@ -386,7 +386,7 @@
 		(uuid "04b4d37a-1905-4eec-a0d2-120aa1a71637")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/KE_3034TR.step"
+	(model "${DHYEY_PROJECTS}/KE_3034TR.step"
 		(offset
 			(xyz 0 7.5 4)
 		)

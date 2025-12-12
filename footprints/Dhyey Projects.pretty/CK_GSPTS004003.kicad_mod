@@ -115,7 +115,7 @@
 		(uuid "f19443f9-620d-4a9a-9deb-27166bf66524")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/CK_GSPTS004003.stp"
+	(model "${DHYEY_PROJECTS}/CK_GSPTS004003.stp"
 		(offset
 			(xyz 0 0 0)
 		)

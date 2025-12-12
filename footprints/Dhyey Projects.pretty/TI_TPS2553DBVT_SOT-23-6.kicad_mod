@@ -316,7 +316,7 @@
 		(uuid "0c8dc514-5efe-4d8e-bb3b-a94331da6404")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/TI_TPS2553DBVT_SOT-23-6.STEP"
+	(model "${DHYEY_PROJECTS}/TI_TPS2553DBVT_SOT-23-6.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

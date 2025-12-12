@@ -649,7 +649,7 @@
 		(uuid "6f05b3de-4fed-4f51-8b67-236a27eab346")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/MIC_MCP1253T-33X50IMS.step"
+	(model "${DHYEY_PROJECTS}/MIC_MCP1253T-33X50IMS.step"
 		(offset
 			(xyz 0 0 0)
 		)

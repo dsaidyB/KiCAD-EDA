@@ -539,7 +539,7 @@
 		(uuid "be0f81e1-5a20-4003-abc8-6846b027a400")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/WE_61304021121.stp"
+	(model "${DHYEY_PROJECTS}/WE_61304021121.stp"
 		(offset
 			(xyz 0 -1.25 1.25)
 		)

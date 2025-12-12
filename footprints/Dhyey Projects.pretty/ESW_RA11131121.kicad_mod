@@ -265,7 +265,7 @@
 		(uuid "2ed1c066-c873-4a0a-9c0f-5ef326d30fcf")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/ESW_RA11131121.stp"
+	(model "${DHYEY_PROJECTS}/ESW_RA11131121.stp"
 		(offset
 			(xyz 0 -7 1.25)
 		)

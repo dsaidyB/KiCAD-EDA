@@ -389,7 +389,7 @@
 		(uuid "999e9668-3b6a-4706-b813-208c95675208")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/EE_EAST1616RGBB2.STEP"
+	(model "${DHYEY_PROJECTS}/EE_EAST1616RGBB2.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

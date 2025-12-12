@@ -308,7 +308,7 @@
 		(uuid "ec1a2486-f034-43dd-a7e4-3701945efadc")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/TTE_P120PK-Y25BR10K.stp"
+	(model "${DHYEY_PROJECTS}/TTE_P120PK-Y25BR10K.stp"
 		(offset
 			(xyz -3.75 -7 0)
 		)

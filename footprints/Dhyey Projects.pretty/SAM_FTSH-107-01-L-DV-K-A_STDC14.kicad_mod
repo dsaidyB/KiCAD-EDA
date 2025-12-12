@@ -440,7 +440,7 @@
 		(uuid "386798bf-5872-46bf-93f7-7e92053b258f")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/SAM_FTSH-107-01-L-DV-K-A_STDC14.stp"
+	(model "${DHYEY_PROJECTS}/SAM_FTSH-107-01-L-DV-K-A_STDC14.stp"
 		(offset
 			(xyz 0 0 0.45)
 		)

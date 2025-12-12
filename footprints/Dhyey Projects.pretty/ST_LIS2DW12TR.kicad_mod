@@ -317,7 +317,7 @@
 		(uuid "30816cf0-ccf2-4b85-a5d8-33462cc8de02")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/ST_LIS2DW12TR.step"
+	(model "${DHYEY_PROJECTS}/ST_LIS2DW12TR.step"
 		(offset
 			(xyz 0 0 0)
 		)

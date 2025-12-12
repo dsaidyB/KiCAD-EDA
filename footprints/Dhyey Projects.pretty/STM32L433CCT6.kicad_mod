@@ -707,7 +707,7 @@
 		(uuid "0f329f83-5b0b-431b-a2d9-58bc1131dd0f")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/dhyey/Desktop/PCB 3D Models/STM32L433CCT6.STEP"
+	(model "${DHYEY_PROJECTS}/STM32L433CCT6.STEP"
 		(offset
 			(xyz 0 0 0.85)
 		)
